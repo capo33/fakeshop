@@ -10,7 +10,7 @@ function App() {
       <Router>
       <Header />
       <Routes>
-        <Route path="/fakeshop-redux" element={<ProductListing />} />
+        <Route path="/fakeshop" element={<ProductListing />} />
         <Route path="/product/:productId" element={<ProductDetail />} />
     
       </Routes>
