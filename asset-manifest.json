@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fakeshop/static/css/main.2ea09f68.css",
-    "main.js": "/fakeshop/static/js/main.bde4c9f3.js",
-    "static/js/787.126c2676.chunk.js": "/fakeshop/static/js/787.126c2676.chunk.js",
-    "index.html": "/fakeshop/index.html",
-    "main.2ea09f68.css.map": "/fakeshop/static/css/main.2ea09f68.css.map",
-    "main.bde4c9f3.js.map": "/fakeshop/static/js/main.bde4c9f3.js.map",
-    "787.126c2676.chunk.js.map": "/fakeshop/static/js/787.126c2676.chunk.js.map"
+    "main.css": "/fakeshop-redux/static/css/main.2ea09f68.css",
+    "main.js": "/fakeshop-redux/static/js/main.c38d37c1.js",
+    "static/js/787.126c2676.chunk.js": "/fakeshop-redux/static/js/787.126c2676.chunk.js",
+    "index.html": "/fakeshop-redux/index.html",
+    "main.2ea09f68.css.map": "/fakeshop-redux/static/css/main.2ea09f68.css.map",
+    "main.c38d37c1.js.map": "/fakeshop-redux/static/js/main.c38d37c1.js.map",
+    "787.126c2676.chunk.js.map": "/fakeshop-redux/static/js/787.126c2676.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2ea09f68.css",
-    "static/js/main.bde4c9f3.js"
+    "static/js/main.c38d37c1.js"
   ]
 }
